@@ -23,3 +23,5 @@ def run_test(questions):
     print("You got " + str(score) + "/" + str(len(questions)) + " correct")
 
 run_test(questions)
+
+# note to self: make this project later after done with tutorial
