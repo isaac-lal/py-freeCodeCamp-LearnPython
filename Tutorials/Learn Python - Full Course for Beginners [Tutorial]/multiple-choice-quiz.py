@@ -5,3 +5,7 @@ question_prompts = [ # question prompts for multiple choice quiz
     "What color are Bananas?\n(a) Teal\n(b) Magenta\n(c) Yellow\n\n",
     "What color are strawberries?\n(a) Yellow\n(b) Red\n(c) Blue\n\n"
 ]
+
+questions = [
+    Question(question_prompts[0])
+]
