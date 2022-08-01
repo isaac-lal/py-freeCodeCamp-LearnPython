@@ -4,7 +4,7 @@
 
 class Student:
 
-    def __init__(self, name, major, gpa, is_on_probation):
+    def __init__(self, name, major, gpa, is_on_probation): # define a class, then initialize a function with parameters for the class
         self.name = name
         self.major = major
         self.gpa = gpa
