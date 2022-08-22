@@ -1,1 +1,1 @@
-# Learning workspace of the Python programming language
+# This repo is my personal learning process of the Python programming language
